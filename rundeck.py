@@ -4,8 +4,7 @@ import sys
 
 trigger_name = sys.argv[1]
 host_name = sys.argv[2]
-print(trigger_name)
-print(host_name)
+
 
 rundeck_url = 'http://x.x.x.x:4440/api/35'
 
